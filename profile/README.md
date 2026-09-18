@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="./assets/mutanex-labs.png" width="760" alt="Mutanex Labs">
 </p>
 
@@ -6,42 +6,60 @@
   <b>Research · Develop · Iterate · Advance</b>
 </p>
 
-## Mutanex Labs
+# Mutanex Labs
 
-Mutanex Labs is where I keep projects that stopped being just experiments.
+**Independent research and engineering lab exploring what can be built beyond the obvious.**
 
-Most of the work here starts with a question, a prototype, or an implementation that behaves better than expected. If it survives testing and turns into something worth developing further, it ends up here.
+Mutanex Labs brings together research, experimentation and engineering. It is a place for projects that explore new approaches, challenge established solutions or turn unusual ideas into working technology.
 
-The main interests are algorithms, runtime systems, performance engineering, applied mathematics, developer infrastructure, and experiments around AI-assisted research.
+The scope is intentionally broad: **algorithms and mathematics, systems software, runtimes, networking, distributed systems, performance engineering, AI, developer infrastructure and experimental software.**
 
-Some repositories begin privately and are opened later. Others may stay private indefinitely. Public repositories should contain enough information to understand what was actually built, reproduce important results, and separate measured results from assumptions.
+Some work begins with a mathematical question. Some starts with an engineering problem that needs a different approach. Some grows into complete software, infrastructure or an independent technology.
 
-I don't treat a benchmark as a conclusion by itself. Interesting results usually lead to more tests: different inputs, adversarial cases, independent implementations, replay, profiling, and attempts to find where the result stops holding.
+### Research
 
-Experimental work is marked as experimental.  
-A hypothesis is not presented as a theorem.  
-A fast implementation is not automatically a better algorithm.  
-A failed approach is useful if it tells us something new.
+Algorithms, computational methods, applied mathematics and experimental approaches to problems where the interesting part is still unknown.
 
-The repositories are the work.
+### Engineering
+
+Systems and software built around new architectures, unusual constraints or ideas that need more than a conventional implementation.
+
+### Technology
+
+Tools, infrastructure and larger projects that turn research and engineering into something that can actually be used.
+
+Not every experiment becomes a project, and not every project begins as research. Mutanex Labs exists for the space between the two.
+
+<p align="center">
+  <b>Build what doesn't exist yet.</b>
+</p>
 
 ---
 
-## На русском
+# Mutanex Labs · RU
 
-Mutanex Labs — отдельное место для проектов, которые в какой-то момент перестали быть просто экспериментами в личном GitHub.
+**Независимая исследовательская и инженерная лаборатория, где мы пробуем создавать то, для чего ещё нет очевидного решения.**
 
-Обычно всё начинается с вопроса, прототипа или реализации, которая показала неожиданный результат. Если после проверок в этом действительно остаётся что исследовать и развивать, проект переезжает сюда.
+Mutanex Labs объединяет исследования, эксперименты и разработку. Здесь появляются проекты, в которых хочется проверить новый подход, выйти за рамки существующих решений или превратить необычную идею в работающую технологию.
 
-Основные направления — алгоритмы, runtime-системы, производительность, прикладная математика, инфраструктура разработки и эксперименты с использованием ИИ в исследованиях.
+Направления не ограничены одной областью: **алгоритмы и математика, системное программирование, среды исполнения, сети, распределённые системы, производительность, искусственный интеллект, инфраструктура разработки и экспериментальное ПО.**
 
-Часть проектов сначала остаётся закрытой. Публичными они становятся тогда, когда уже можно показать не только идею, но и реализацию, методику проверки и результаты.
+Что-то начинается с математического вопроса. Что-то — с инженерной задачи, для которой существующие решения не подходят. А отдельные идеи постепенно превращаются в полноценные программы, инфраструктуру или самостоятельные технологии.
 
-Если эксперимент показывает что-то интересное, этого недостаточно. Нужны другие входные данные, граничные случаи, попытки сломать результат, воспроизводимые измерения и, где это возможно, независимая проверка.
+### Исследования
 
-Эксперимент остаётся экспериментом.  
-Гипотеза не становится теоремой из-за хорошего графика.  
-Быстрая реализация не означает автоматически лучший алгоритм.  
-Отрицательный результат тоже может быть полезным.
+Алгоритмы, вычислительные методы, прикладная математика и экспериментальные подходы к задачам, в которых самое интересное ещё только предстоит найти.
 
-Всё остальное — в репозиториях.
+### Разработка
+
+Системы и программное обеспечение, построенные вокруг новых архитектур, необычных ограничений или идей, которым недостаточно стандартной реализации.
+
+### Технологии
+
+Инструменты, инфраструктура и более крупные проекты, в которых исследования и инженерия превращаются в то, чем уже можно пользоваться.
+
+Не каждый эксперимент становится проектом, и не каждый проект начинается с исследования. Mutanex Labs существует как раз на пересечении этих вещей.
+
+<p align="center">
+  <b>Создавать то, чего ещё нет.</b>
+</p>
